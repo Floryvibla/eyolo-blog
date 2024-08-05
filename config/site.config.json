@@ -1,0 +1,47 @@
+{
+  "metaData": {
+    "title" : "SymBlog - React NextJS Blog Template",
+    "description" : "Um modelo de blog moderno e rico em recursos criado com React, NextJS e Tailwind CSS.",
+    "author" : "",
+    "keyword" : "minimal",
+    "ogImage" : "https://eyolo-nextjs.vercel.apphttps://eyolo-nextjs.vercel.app/images/ogimage.jpg"
+  },
+  "baseURL" : "",
+  "siteURL" : "https://eyolo-nextjs.vercel.app",
+  "logo" : "https://eyolo-nextjs.vercel.app/images/logo.svg",
+  "logoWhite" : "https://eyolo-nextjs.vercel.app/images/logo-white.svg",
+  "logoText" : "Eyolo",
+  "favicon" : "https://eyolo-nextjs.vercel.app/images/favicon.png",
+
+  "subscriptionFormspreeID" : "xnqeeyyp",
+
+  "footerWidgets": {
+    "email" : "flory.contato@gmail.com",
+    "phone" : "+5511973122984"
+  },
+
+  "footerLinks": [
+    {
+      "title": "Sobre",
+      "url": "/about"
+    },
+    {
+      "title": "Arquivo",
+      "url": "/archive"
+    },
+    {
+      "title": "Contato",
+      "url": "/contact"
+    },
+    {
+      "title": "Política de Privacidade",
+      "url": "/privacy"
+    },
+    {
+      "title": "Termos",
+      "url": "/terms"
+    }
+  ],
+
+  "copyright" : "© 2024 Flory Tshiteya Mwenge. Todos os direitos reservados."
+}

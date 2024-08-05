@@ -1,0 +1,37 @@
+{
+  "slug": "about",
+  "frontmatter": {
+    "title": "Tudo Sobre Eyolo",
+    "description": "Sempre gostamos de ver as diferentes maneiras como as pessoas leem nosso blog. Navegue pelos artigos para obter novas percepções sobre o mundo dos negócios e se inspire.",
+    "banner": {
+      "title": {
+        "divider": true,
+        "first_half": "Criar o Eyolo Tem Sido",
+        "second_half": "A Experiência Mais Incrível Para Nós Desde 1998"
+      },
+      "image_01": "https://eyolo-nextjs.vercel.app/images/about/about-1.jpg",
+      "image_02": "https://eyolo-nextjs.vercel.app/images/about/about-2.jpg",
+      "description": "Sempre gostamos de ver as diferentes maneiras como as pessoas leem nosso blog. Navegue pelos artigos para obter novas percepções sobre o mundo dos negócios e se inspire.\n"
+    },
+    "authors": {
+      "enable": true,
+      "title": "Conheça nossos autores",
+      "button": {
+        "label": "Todos os Autores",
+        "link": "/author"
+      },
+      "join_team": {
+        "enable": true,
+        "title": "É você",
+        "subtitle": "Junte-se à nossa equipe",
+        "join_url": "/contact",
+        "image": "https://eyolo-nextjs.vercel.app/images/author/its-you.webp"
+      }
+    },
+    "about_info": {
+      "title": "Por que escrevemos para o Grafi Webflow Blog Template todos os dias?",
+      "image": "https://eyolo-nextjs.vercel.app/images/about/about.jpg"
+    }
+  },
+  "content": "Ao contrário da crença popular, Lorem Ipsum não é simplesmente um texto aleatório. Tem raízes em um pedaço de literatura latina clássica de 45 a.C., tornando-o mais de 2000 anos. Procurando uma das palavras latinas mais obscuras, consectetur, de uma passagem do Lorem Ipsum, e passando pelas citações da palavra na literatura clássica, descobriu-se a fonte indubitável.\n\nLorem Ipsum vem das seções 1.10.32 e 1.10.33 de \"de Finibus Bonorum et Malorum\" (Os Extremos do Bem e do Mal) de Cícero, escrito em 45 a.C. Este livro é um tratado sobre a teoria da ética, muito popular durante o Renascimento. A primeira linha do Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", vem de uma linha em 1.10.32."
+}

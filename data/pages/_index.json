@@ -1,0 +1,48 @@
+{
+  "slug": "_index",
+  "frontmatter": {
+    "popularTopics": {
+      "enable": true,
+      "title": "Tópicos Populares"
+    },
+    "latestArticles": {
+      "enable": true,
+      "heading": "Descubra. Aprenda. Transforme. Rápido",
+      "title": "Últimos Artigos",
+      "description": "Últimos Artigos de Amet venenatis urna cursus eget nunc scelerisque viverra.",
+      "button": {
+        "label": "Todos os Posts",
+        "link": "/blog"
+      }
+    },
+    "popularArticles": {
+      "enable": true,
+      "heading": "Perspectivas de Negócios e Cultura no Trabalho",
+      "title": "Artigos Populares",
+      "description": "Artigos Populares de consectetur morbi. Amet venenatis urna cursus eget nunc scelerisque viverra.",
+      "button": {
+        "label": "Todos os Posts",
+        "link": "/blog?filter=popular"
+      }
+    },
+    "trendingArticles": {
+      "enable": true,
+      "heading": "Onde Conhecimento Encontra Paixão",
+      "title": "Artigos em Alta",
+      "description": "Artigos em Alta de consectetur morbi. Amet venenatis urna cursus eget nunc scelerisque viverra.",
+      "button": {
+        "label": "Todos os Posts",
+        "link": "/blog?filter=trending"
+      }
+    },
+    "postOfTheWeekSection": {
+      "enable": true,
+      "title": "Post da Semana",
+      "button": {
+        "label": "Todos os Posts Semanais",
+        "link": "/blog?filter=featured"
+      }
+    }
+  },
+  "content": ""
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "_index-2",
+  "frontmatter": {
+    "banner": {
+      "heading": "Sua Dose Diária de Inspiração e Conhecimento",
+      "rssButton": {
+        "enable": true,
+        "link": "/rss.xml",
+        "label": "RSS"
+      },
+      "videoPostsButton": {
+        "enable": true,
+        "link": "/videos",
+        "label": "Posts em Vídeo"
+      }
+    },
+    "popularTopics": {
+      "enable": true,
+      "title": "Tópicos Populares",
+      "button": {
+        "label": "Todas as Categorias",
+        "link": "/category"
+      }
+    },
+    "latestArticles": {
+      "enable": true,
+      "title": "Últimos Artigos",
+      "button": {
+        "label": "Ver Todos os Posts",
+        "link": "/blog"
+      }
+    },
+    "popularArticles": {
+      "enable": true,
+      "title": "Artigos Populares",
+      "button": {
+        "label": "Ver Todos os Posts",
+        "link": "/blog?filter=popular"
+      }
+    }
+  },
+  "content": ""
+}

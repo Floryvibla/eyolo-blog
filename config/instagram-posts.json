@@ -1,0 +1,30 @@
+{
+  "username": "florymignon",
+  "URL": "https://www.instagram.com/florymignon",
+  "posts": [
+    {
+      "image": "https://eyolo-nextjs.vercel.app/images/instagram/1.jpg",
+      "title": "florymignon"
+    },
+    {
+      "image": "https://eyolo-nextjs.vercel.app/images/instagram/2.jpg",
+      "title": "florymignon"
+    },
+    {
+      "image": "https://eyolo-nextjs.vercel.app/images/instagram/3.jpg",
+      "title": "florymignon"
+    },
+    {
+      "image": "https://eyolo-nextjs.vercel.app/images/instagram/4.jpg",
+      "title": "florymignon"
+    },
+    {
+      "image": "https://eyolo-nextjs.vercel.app/images/instagram/5.jpg",
+      "title": "florymignon"
+    },
+    {
+      "image": "https://eyolo-nextjs.vercel.app/images/instagram/6.jpg",
+      "title": "florymignon"
+    }
+  ]
+}
